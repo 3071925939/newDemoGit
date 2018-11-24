@@ -1,2 +1,0 @@
-# newDemoGit
-newDemoGit
